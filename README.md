@@ -17,7 +17,7 @@ Olá!
 
 ![Murilo Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=murilois&show_icons=true&theme=tokyonight)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murilois&layout=donut&bg_color=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murilois&layout=donut&theme=tokyonight%)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 -----
