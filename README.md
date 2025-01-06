@@ -14,11 +14,11 @@ Olá!
 </p>
 
 -----
-
+<p align="center">
 ![Murilo Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=murilois&show_icons=true&theme=tokyonight)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murilois&layout=donut&theme=tokyonight%)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <!--
 -----
 | Courses |  Certificates  |
