@@ -8,13 +8,13 @@ Olá!
 - 🔭 I’m currently open to work!  
 - 🌱 I’m currently learning Javascript.
 ### My Programming Languages & Technologies
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
-
+</p>
 -----
 
-![Murilo Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=murilois&show_icons=true&theme=radical)
+![Murilo Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=murilois&show_icons=true&theme=tokyonight)
 
 <!--
 -----
