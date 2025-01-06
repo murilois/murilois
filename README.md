@@ -12,9 +12,12 @@ Olá!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
 </p>
+
 -----
 
 ![Murilo Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=murilois&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murilois&size_weight=0.5&count_weight=0.5)
 
 <!--
 -----
